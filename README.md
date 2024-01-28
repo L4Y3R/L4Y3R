@@ -15,7 +15,7 @@
 
 <br/>
 
-<h2 align="center">💻 Tech Stack:</h2>
+<h2> Tech Stack:</h2>
 
 <div align="center">
 
@@ -39,9 +39,13 @@
 
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=L4Y3R&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 

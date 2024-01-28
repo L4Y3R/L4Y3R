@@ -1,11 +1,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=L4Y3R&icon=3&color=2)](https://visitcount.itsvg.in)
 
-### Hi there 👋 I am Nipun
+<div align="center">
+  ### Hi there 👋 I am Nipun
 
 🔭 I’m currently working on a Movie Tracking Web App<br>
 🌱 I’m currently learning MERN Stack<br>
 💬 Ask me about Tailwind, UI, UX, React NextJs<br>
+</div>
+
 
 
 # 💻 Tech Stack:

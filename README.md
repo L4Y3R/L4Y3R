@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=L4Y3R" alt="Profile Views">
+  [![](https://visitcount.itsvg.in/api?id=L4Y3R&icon=3&color=2)](https://visitcount.itsvg.in)
 </div>
 
 ### Hi there 👋
@@ -28,6 +28,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=L4Y3R&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=L4Y3R&icon=3&color=2)](https://visitcount.itsvg.in)
+
 

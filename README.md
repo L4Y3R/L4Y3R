@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   
   [![](https://visitcount.itsvg.in/api?id=L4Y3R&icon=3&color=2)](https://visitcount.itsvg.in)
 </div>

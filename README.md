@@ -1,6 +1,7 @@
 
-[![](https://visitcount.itsvg.in/api?id=L4Y3R&icon=3&color=2)](https://visitcount.itsvg.in)
-
+<div align="left">
+  [![](https://visitcount.itsvg.in/api?id=L4Y3R&icon=3&color=2)](https://visitcount.itsvg.in)
+</div>
 
 ### Hi there 👋
 

@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-<h2> Tech Stack: </h2>
+<h2> Tech Stack </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,vercel,postman" /><br/>
@@ -34,9 +34,10 @@
 </div>
 
 <br/>
+<br/>
 
 <div>
-  <h2> GitHub Statistics: </h2> 
+  <h2> GitHub Statistics </h2> 
 </div>
 
 <div align="center">
@@ -48,9 +49,11 @@
 </div>
 
 
+<br/>
+<br/>
 
 <div >
-  <h2> And here is a snake eating my contributions </h2>
+  <h2> Here is a Snake Eating My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/l4y3r/l4y3r/output/github-contribution-grid-snake.svg" />
   

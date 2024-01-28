@@ -14,16 +14,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=L4Y3R&theme=prussian&hide_border=true)<br/>
-<div aligh="center">
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
-</div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=L4Y3R&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=L4Y3R&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)

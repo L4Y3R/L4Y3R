@@ -1,5 +1,9 @@
+<div align="right">
+  
+  [![](https://visitcount.itsvg.in/api?id=L4Y3R&icon=3&color=2)](https://visitcount.itsvg.in)
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=L4Y3R&icon=3&color=2)](https://visitcount.itsvg.in)
+
 
 <div align="center">
   <h1> Hi there 👋 I am Nipun </h1> 
@@ -8,6 +12,8 @@
 🌱 I’m currently learning MERN Stack<br>
 💬 Ask me about Tailwind, UI, UX, React NextJs<br>
 </div>
+
+<br/>
 
 <h2 align="center">💻 Tech Stack:</h2>
 

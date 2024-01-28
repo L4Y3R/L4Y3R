@@ -1,0 +1,15 @@
+
+name: Profile Views
+
+on:
+  workflow_run:
+    workflows: ["Build"]
+
+jobs:
+  count-views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Count views
+        uses: svenstaro/profile-readme-action@v2
+        with:
+          README: ${{ github.workspace }}/README.md

@@ -14,7 +14,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=L4Y3R&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div aligh="center">
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=L4Y3R&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)

@@ -1,4 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=L4Y3R)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=L4Y3R" alt="Profile Views">
+</div>
 
 ### Hi there 👋
 

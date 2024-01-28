@@ -23,12 +23,21 @@
 
 </div>
 
+<br/>
 
-# 📊 GitHub Stats:
+<div>
+  <h2> GitHub Statistics: </h2> 
+</div>
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=L4Y3R&theme=prussian&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4Y3R&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)   
+</div>
+
+
 
 
 ### 🔝 Top Contributed Repo

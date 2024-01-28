@@ -18,8 +18,8 @@
 <h2> Tech Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,adobexd,tailwind,git,vercel,npm" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,nextjs,mysql,c,java,adobe,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,vercel,npm,adobexd" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,nextjs,mysql,c,java,photoshop" /><br>
 </div>
 
 <h2> Tech Stack:</h2>

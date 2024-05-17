@@ -9,7 +9,7 @@
   <h1> Hi there 👋 I am Nipun </h1> 
 
 🔭 I’m currently working on a Movie Tracking Web App<br>
-🌱 I’m currently learning Android App Development<br>
+🌱 I’m currently learning React Native<br>
 💬 Ask me about Tailwind, UI, UX, React NextJs<br>
 </div>
 

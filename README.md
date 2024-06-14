@@ -8,9 +8,9 @@
 <div align="center">
   <h1> Hi there 👋 I am Nipun </h1> 
 
-🔭 I’m currently working on a Movie Tracking Web App<br>
+🔭 I’m currently working on a Microservice Application<br>
 🌱 I’m currently learning Spring Boot<br>
-💬 Ask me about Tailwind, UI, UX, React NextJs<br>
+💬 Ask me about Tailwind, UI, UX, React, NextJs<br>
 </div>
 
 <div align="center"> 

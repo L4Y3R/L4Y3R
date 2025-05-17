@@ -8,9 +8,9 @@
 <div align="center">
   <h1> Hi there 👋 I am Nipun </h1> 
 
-🔭 I’m currently working on an AI application<br>
-🌱 I’m currently learning LangChain & Angular<br>
-💬 Ask me about Tailwind, UI, UX, React, NextJs<br>
+🔭 I’m currently working on AI applications<br>
+🌱 I’m currently learning Scalable System Development<br>
+💬 Ask me about SpringBoot, Python, AI, Angular <br>
 </div>
 
 <div align="center"> 
